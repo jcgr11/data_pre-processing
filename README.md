@@ -2,6 +2,7 @@
 ## Collection of python scripts created for MBA and personal development.
 
 ### References:
+#### (these references will be updated regularly)
 
 Geometric brownian motion. (n.d.). https://www.quantstart.com/articles/Geometric-Brownian-Motion/
 
