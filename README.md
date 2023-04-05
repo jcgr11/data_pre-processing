@@ -1,5 +1,5 @@
 # verbose-octo-couscous
-## Collection of python scripts created for MBA projects and personal development.
+## Collection of python scripts created for MBA and personal development.
 
 ### References:
 
