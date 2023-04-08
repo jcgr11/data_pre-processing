@@ -5,8 +5,8 @@ import os
 
 # ETFs and date range
 tickers = ['VNQ','BWX','ANGL','DBC','EEM','FDRV','REZ','FXE','EMB','USO','EEM','VT','TSLA','VTI']
-START_DATE = '2022-02-28'
-END_DATE = '2023-03-02'
+START_DATE = '2022-03-31'
+END_DATE = '2023-03-31'
 
 # download historical adj close price and calculate returns
 x = yf.download(tickers, start=START_DATE, end=END_DATE)['Adj Close']\
