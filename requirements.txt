@@ -1,0 +1,15 @@
+cufflinks==0.17.3
+datetime==3.10.9
+matplotlib==3.7.0
+numpy==1.23.5
+os==3.10.9
+pandas==1.5.3
+plotly==5.9.0
+prophet==1.1.2
+scipy==1.10.0
+seaborn==0.12.2
+sktime==0.16.1
+statmodels==0.13.5
+streamlit==1.20.0
+yfinance==0.2.14
+
